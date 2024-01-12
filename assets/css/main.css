@@ -3301,6 +3301,22 @@ input, select, textarea {
 
 			}
 
+		.wrapper.style6 {
+			background-color: #17284a;
+		}
+
+		.wrapper.style7{
+			background-color: #717689;
+		}
+
+		.wrapper.style8{
+			background-color: #758799;
+		}
+
+		.wrapper.style9{
+			background-color: #dfd9d7;
+		}
+
 		@media screen and (max-width: 980px) {
 
 			.wrapper {
@@ -3351,7 +3367,7 @@ input, select, textarea {
 		-ms-transition: -ms-transform 0.5s ease;
 		transition: transform 0.5s ease;
 		-webkit-overflow-scrolling: touch;
-		background: #21b2a6;
+		background: #758799;
 		color: #ffffff;
 		height: 100%;
 		max-width: 80%;
